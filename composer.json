@@ -1,0 +1,13 @@
+{
+    "name": "miguel/officeservice",
+    "description": "Composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "miguel09",
+            "email": "miguelocampoc@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,30 @@
+
+   p{
+    font-family: Arial;
+    font-size: 15.5px;
+    font-weight: normal;
+   }
+                #button {
+                 padding: 0;
+                       }
+        
+        
+        #button li {
+         display: inline;
+         }
+         #button li  {
+         font-family: Arial;
+         font-size: 10.5px;
+         text-decoration: none;
+         float: left;
+         padding: 10px;
+         color: #fff;
+         border-color:#2C2827;
+
+         }
+         #button li:hover {
+            background-color: #AFAFF1;
+            margin-top: -2;
+            padding-bottom: 10px;
+            }
+          

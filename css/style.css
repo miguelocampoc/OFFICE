@@ -1,0 +1,16 @@
+#space{
+    display: none;
+}
+
+
+@media screen and (max-width:800px ) {
+#encabezado {
+    text-align: center;
+
+}
+#space{
+    display:block;
+}
+p li {
+    font-size:20px;}
+}
