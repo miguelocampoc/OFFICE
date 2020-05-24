@@ -12,13 +12,13 @@
          
                              <li  id="responsive">
          
-                                 <a href="index.php" ><img  width="170px" src="images/logo.webp" id="img-navbar" ></img> </a>
+                                 <a href="index.php" ><img  width="80px" src="img/logof.png" id="img-navbar" ></img> </a>
                  
                              </li>
                              
                              <li  >
          
-                                 <a  href="index.php"  style="font-size:19px; color:#000000">INICIO </a>
+                                 <a  href="index.php"  >INICIO </a>
                  
                              </li>
                              <li>
@@ -44,7 +44,7 @@
                             
                              
                            <li>
-                             <a href=""> <img  width="20px" src="images/facebook.svg" id="img-navbar" ></img> FACEBOOK</a>
+                             <a href=""> FACEBOOK</a>
          
                            </li>
                             

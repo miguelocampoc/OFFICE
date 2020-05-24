@@ -1,7 +1,9 @@
 #space{
     display: none;
 }
-
+body{
+    background-color:#DDEEEA;
+}
 
 @media screen and (max-width:800px ) {
 #encabezado {

@@ -3,13 +3,14 @@
 
 
 <body>
-<div id="nav">
 <?php include 'nav.php'?>
-</div>    
 <div class="p-2 mb-2 bg-dark ">  </div>
 
   <script src="validar.js"></script>
-
+  <div id="responsive">
+<div class="pb-5"> </div>
+<div class="pb-3"> </div>
+</div>
       <div class="container-fluid">
              <?php include 'encabezado.php'; ?>
 
@@ -17,35 +18,12 @@
                         <div class="col-md-2">
                         </div>                        
                         <div class="col-md-8 bg-primary ">
-                        <ul id="button" class="nav">
-                        <a href="index.php">
-                       <li class="nav-item active " > <i class="fa fa-home" aria-hidden="true"></i>
-                        INICIO</li>
-                       </a>
-                       <a href="nosotros.php">
-                       <li class="nosotros" > <i class="fa fa-users" aria-hidden="true"></i>
-                        NOSOTROS</li>
-                       </a>
-                       <a href="mision.php">
-                       <li class="mision"> <i class="fa fa-spinner" aria-hidden="true"></i>
-                        MISION</li>
-                       </a>
-                       <a href="vision.php">
-                       <li class="vision"> <i class="fa fa-eye" aria-hidden="true"></i>
-                        VISION</li>
-                       </a>
-                         <a href="contacto.php">
-                       <li class="contactos" style=" background-color:#AFAFF1;"><i class="fa fa-envelope-o" aria-hidden="true"></i>
-                    CONTACTENOS</li>
-                       </a>
-               
-
-                       </ul>
+                      
                         </div>
                       </div>
 
                 
-                  <div class="row " >
+                  <div class="row pt-4 pb-4"style="background-color:#D8E0DD" >
 
                                <div class="col-md-2">
                                   </div>  
@@ -85,7 +63,7 @@
                                                 </div>
                                              </div>
 
-                                              <div class="row">
+                                              <div class="row " >
                                                 <div class="col-md-6">
                                                        <div class="form-group">
                                                         <p style="font-size:20px;">Mensaje</p>
@@ -109,13 +87,13 @@
                                              </div>       
                                         <br>
                                  
-                                    <div class="col-md-2">
+                                    <div class="col-md-2" style="background-color:#D8E0DD">
 
                                   </div>  
                                     
 
                   </div>
-<br>
+
 
 
 
